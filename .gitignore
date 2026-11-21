@@ -1,0 +1,10 @@
+mzi_benchmark
+mzi_sim
+*.out
+*.exe
+*.o
+*.obj
+results_benchmark.csv
+.vscode/
+.DS_Store
+*~
